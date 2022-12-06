@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Cloud calculations</string>
+    <string name="words_in_database_label">Words in database:</string>
+    <string name="words_in_database_value">0</string>
+    <string name="add_words">Add new words</string>
+    <string name="show_database">Show database</string>
+    <string name="show_actual_database">Show actual database</string>
+    <string name="current_topics">Current topics:</string>
+    <string name="available_topics">Available topics:</string>
+    <string name="add_new_topic">Add new topic</string>
+    <string name="rename_topic">Rename topic</string>
+    <string name="load_topics">Load selected topics</string>
+    <string name="Enter_topic_name">Enter topic name</string>
+    <string name="Enter_new_topic_name">Enter new name for topic</string>
+    <string name="delete_unselected_topics">Load topics</string>
+    <string name="my_words">My words</string>
+    <string name="save_changes">Save</string>
+    <string name="hundred_most_popular_words">100 Most popular words</string>
+    <string name="learn_words">Learn words</string>
+    <string name="type_new_word_label">Type unknown word:</string>
+    <string name="type_translation_label">Type translation:</string>
+    <string name="load_words_from_file_label">Add words from file</string>
+    <string name="add_multiple_words_at_once_label">Add multiple words at once</string>
+    <string name="given_word_label"></string>
+    <string name="word_translation_label"></string>
+    <string name="show_translation_label">Show translation</string>
+    <string name="next_word_label">Next</string>
+    <string name="add_label">Add</string>
+    <string name="topics_names">topicsNamesFile</string>
+
+</resources>
